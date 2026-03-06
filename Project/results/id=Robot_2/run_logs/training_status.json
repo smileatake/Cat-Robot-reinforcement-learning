@@ -1,0 +1,65 @@
+{
+    "Robot": {
+        "checkpoints": [
+            {
+                "steps": 96999029,
+                "file_path": "results/id=Robot_2/Robot/Robot-96999029.onnx",
+                "reward": 2286.041544596354,
+                "creation_time": 1719149537.272541,
+                "auxillary_file_paths": [
+                    "results/id=Robot_2/Robot/Robot-96999029.pt"
+                ]
+            },
+            {
+                "steps": 97499219,
+                "file_path": "results/id=Robot_2/Robot/Robot-97499219.onnx",
+                "reward": 2649.14990234375,
+                "creation_time": 1719150388.839783,
+                "auxillary_file_paths": [
+                    "results/id=Robot_2/Robot/Robot-97499219.pt"
+                ]
+            },
+            {
+                "steps": 97999731,
+                "file_path": "results/id=Robot_2/Robot/Robot-97999731.onnx",
+                "reward": null,
+                "creation_time": 1719151242.535188,
+                "auxillary_file_paths": [
+                    "results/id=Robot_2/Robot/Robot-97999731.pt"
+                ]
+            },
+            {
+                "steps": 98499723,
+                "file_path": "results/id=Robot_2/Robot/Robot-98499723.onnx",
+                "reward": 2129.802935431985,
+                "creation_time": 1719152115.8849611,
+                "auxillary_file_paths": [
+                    "results/id=Robot_2/Robot/Robot-98499723.pt"
+                ]
+            },
+            {
+                "steps": 98646723,
+                "file_path": "results/id=Robot_2/Robot/Robot-98646723.onnx",
+                "reward": 2003.2303897633271,
+                "creation_time": 1719152380.1745532,
+                "auxillary_file_paths": [
+                    "results/id=Robot_2/Robot/Robot-98646723.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 98646723,
+            "file_path": "results/id=Robot_2/Robot.onnx",
+            "reward": 2003.2303897633271,
+            "creation_time": 1719152380.1745532,
+            "auxillary_file_paths": [
+                "results/id=Robot_2/Robot/Robot-98646723.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.0.0"
+    }
+}
